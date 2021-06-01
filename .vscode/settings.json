@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iagoramediaplayersource.h": "c",
+        "fstream": "cpp",
+        "locale": "cpp",
+        "__bit_reference": "cpp",
+        "__string": "cpp",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "ios": "cpp",
+        "type_traits": "cpp",
+        "base.h": "c",
+        "cinttypes": "c"
+    }
+}

@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AgoraEngine/Scripts/MediaPlayer.cs">
+    <Files>
+      <File FileName="Assets/AgoraEngine/Demo/TestHelloUnityVideo.cs" Line="202" Column="1" />
+      <File FileName="Assets/AgoraEngine/Demo/ButtonHandler.cs" />
+      <File FileName="Assets/AgoraEngine/Demo/TestHome.cs" />
+      <File FileName="Assets/AgoraEngine/Scripts/IMediaPlayer.cs" />
+      <File FileName="Assets/AgoraEngine/Scripts/MediaPlayer.cs" Line="99" Column="2" />
+      <File FileName="Assets/AgoraEngine/Scripts/native/IMediaPlayerNative.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hello-Video-Unity-Agora" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="be9dd0bd-f427-4367-a98a-86067358f943" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
