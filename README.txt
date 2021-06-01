@@ -2,9 +2,11 @@
 
 1: cd sdk/Projects/Android/
 
-2: ./build.sh
+2: 下载 native sdk，解压拷贝到 prebuilt/ 目录下
 
-3: 产物在 bin 目录。
+3: ./build.sh
+
+4: 产物在 bin 目录。
 
 
 二：运行 Demo：
