@@ -155,6 +155,7 @@ class MediaPlayerImp : IMediaPlayer
 
         return IMediaPlayerNative.media_player_mute(_media_player_ptr, mute);
     }
+    
     public override bool GetMute()
     {
         if (_engine_ptr == IntPtr.Zero || _media_player_ptr == IntPtr.Zero)

@@ -10,7 +10,6 @@ enum ERROR_CODE
 {
     ERROR_NOT_INIT = -7
 }
-
 /**
  * @brief The playback state.
  *
